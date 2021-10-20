@@ -1,0 +1,12 @@
+C:\movilidad\accidente.App\accidente.App.dominio\bin\Debug\net5.0\accidente.App.dominio.deps.json
+C:\movilidad\accidente.App\accidente.App.dominio\bin\Debug\net5.0\accidente.App.dominio.dll
+C:\movilidad\accidente.App\accidente.App.dominio\bin\Debug\net5.0\ref\accidente.App.dominio.dll
+C:\movilidad\accidente.App\accidente.App.dominio\bin\Debug\net5.0\accidente.App.dominio.pdb
+C:\movilidad\accidente.App\accidente.App.dominio\obj\Debug\net5.0\accidente.App.dominio.csproj.AssemblyReference.cache
+C:\movilidad\accidente.App\accidente.App.dominio\obj\Debug\net5.0\accidente.App.dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\movilidad\accidente.App\accidente.App.dominio\obj\Debug\net5.0\accidente.App.dominio.AssemblyInfoInputs.cache
+C:\movilidad\accidente.App\accidente.App.dominio\obj\Debug\net5.0\accidente.App.dominio.AssemblyInfo.cs
+C:\movilidad\accidente.App\accidente.App.dominio\obj\Debug\net5.0\accidente.App.dominio.csproj.CoreCompileInputs.cache
+C:\movilidad\accidente.App\accidente.App.dominio\obj\Debug\net5.0\accidente.App.dominio.dll
+C:\movilidad\accidente.App\accidente.App.dominio\obj\Debug\net5.0\ref\accidente.App.dominio.dll
+C:\movilidad\accidente.App\accidente.App.dominio\obj\Debug\net5.0\accidente.App.dominio.pdb
